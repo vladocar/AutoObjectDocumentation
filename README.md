@@ -1,6 +1,6 @@
 Object Auto Documentation 
 -----
-Object Auto Documentation is simply displays JavaScript Object methods in elegant form.
+Object Auto Documentation  simply displays JavaScript Object methods in elegant way.
 
 
 How to use Object Auto Documentation:
