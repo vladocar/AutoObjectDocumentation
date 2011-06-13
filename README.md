@@ -12,9 +12,9 @@ Then call the Object that you want to document
 
 example: docJS(SomeObjectName,"optional Object name")
 
-And that is all. 
+That is all. 
 
-The styling is inspired form backbone.js documentation.
+The styling is inspired from backbone.js documentation.
 
 Demos:
 ---------------------
