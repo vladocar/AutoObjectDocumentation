@@ -16,6 +16,8 @@ That is all.
 
 The styling is inspired from backbone.js documentation.
 
+Works in: Firefox 4, Safari 5 and Chrome 5
+
 Demos:
 ---------------------
  * [jQuery](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-jQuery.html)
