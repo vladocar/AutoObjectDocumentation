@@ -31,3 +31,11 @@ Demos:
  * [webfont Google](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-webfont.html)
  * [YUI](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-YUI.html)
  * [Zepto](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Zepto.html)
+ 
+ News:
+ --------------------- 
+ Thanks to [@brandonc](https://github.com/brandonc) for implementing syntax highlighting with google-prettify. [Demo jQuery](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-jQuery-prettify.html)
+ 
+ Basic object(method) profiling is added like number of lines, number of characters, number of arguments. The idea for object profiling is taken from [kratko js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
+ 
+ In the demos [autoDocs-NoName.html](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-NoName.html) is added that can take any external JS library dynamically and also any JavaScript Object can be added. 

@@ -8,6 +8,9 @@ a{
 a:hover{
 	text-decoration: underline;
 }
+i{
+	font-size: 12px;
+}
 ul{
 	list-style-type: none;
 }
