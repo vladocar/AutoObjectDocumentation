@@ -26,8 +26,13 @@ function docJS(d, n) {
             numOfArguments = 0;
         }
         list1 += "<li><a href='#" + keys[i] + "'>- " + keys[i] + "</a></li>";
-        list += "<li class='l' id=" + keys[i] + "><h3>" + keys[i] + ":<i> ( lines: " + numOfLines + " characters: " + numOfCharacters + " arguments: " + numOfArguments + " )</i></h3><br><pre>  " + (pp ? prettyPrintOne(String(d[keys[i]]).replace(/\n/g, '<br/>'), 'js', false) : d[keys[i]]) + "</pre></li>";
+        list += "<li class='l' id=" + keys[i] + "><h3>" + n + "." + keys[i] + ":<i> ( lines: " + numOfLines + " characters: " + numOfCharacters + " arguments: " + numOfArguments + " )</i></h3><br><pre>  " + (pp ? prettyPrintOne(String(d[keys[i]]).replace(/\n/g, '<br/>'), 'js', false) : d[keys[i]]) + "</pre></li>";
     }
-    document.getElementsByTagName("body")[0].innerHTML = '<div id="sidebar"><h3 id="o">' + n + '</h3><ul id="links">' + list1 + '</ul></div><ul id="a">' + list + '</ul>';
+    if (!document.getElementById("sidebar")){
+        document.getElementsByTagName("body")[0].innerHTML = '<div id="sidebar"></div><ul id="a"></ul>';
+    }
+    document.getElementById("sidebar").innerHTML += '<h3 id="o">' + n + '</h3><ul id="links">' + list1 + '<br/></ul>';
+    document.getElementById("a").innerHTML += list;
+    
     console.log(x / 1024 + " Kb - It doesn't calculate nested objects");
 }
