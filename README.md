@@ -36,7 +36,7 @@ Demos:
  --------------------- 
  Thanks to [@brandonc](https://github.com/brandonc) for implementing syntax highlighting with google-prettify. [Demo jQuery](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-jQuery-prettify.html)
 
- Thanks to [Contra](https://github.com/Contra) now you can display multiple objects. [Demo](http://wearefractal.github.com/nova/docs/index.html)
+ Thanks to [@Contra](https://github.com/Contra) now you can display multiple objects. [Demo](http://wearefractal.github.com/nova/docs/index.html)
  
  Basic object(method) profiling is added like number of lines, number of characters, number of arguments. The idea for object profiling is taken from [kratko js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
  
