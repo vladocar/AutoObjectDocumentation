@@ -20,8 +20,8 @@ Works in: Firefox 4, Safari 5 and Chrome 5
 
 Demos:
 ---------------------
- * [jQuery](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-jQuery.html)
- * [dojo](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-dojo.html)
+ * [jQuery](demos/autoDocs-jQuery.html)
+ * [dojo](demos/autoDocs-dojo.html)
  * [Ext](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Ext.html)
  * [fuse](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-fuse.html)
  * [Modernizr2](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Modernizr2.html)
