@@ -22,22 +22,22 @@ Demos:
 ---------------------
  * [jQuery](demos/autoDocs-jQuery.html)
  * [dojo](demos/autoDocs-dojo.html)
- * [Ext](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Ext.html)
- * [fuse](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-fuse.html)
- * [Modernizr2](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Modernizr2.html)
- * [mootools](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-mootools.html)
- * [prototype.js](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-prototype.html)
- * [swfobject](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-swfobject.html)
- * [webfont Google](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-webfont.html)
- * [YUI](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-YUI.html)
- * [Zepto](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-Zepto.html)
+ * [Ext](autoDocs-Ext.html)
+ * [fuse](autoDocs-fuse.html)
+ * [Modernizr2](autoDocs-Modernizr2.html)
+ * [mootools](autoDocs-mootools.html)
+ * [prototype.js](autoDocs-prototype.html)
+ * [swfobject](autoDocs-swfobject.html)
+ * [webfont Google](autoDocs-webfont.html)
+ * [YUI](autoDocs-YUI.html)
+ * [Zepto](demos/autoDocs-Zepto.html)
  
  News:
  --------------------- 
- Thanks to [@brandonc](https://github.com/brandonc) for implementing syntax highlighting with google-prettify. [Demo jQuery](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-jQuery-prettify.html)
+ Thanks to [@brandonc](https://github.com/brandonc) for implementing syntax highlighting with google-prettify. [Demo jQuery](demos/autoDocs-jQuery-prettify.html)
 
  Thanks to [@Contra](https://github.com/Contra) now you can display multiple objects. [Demo](http://wearefractal.github.com/nova/docs/index.html)
  
  Basic object(method) profiling is added like number of lines, number of characters, number of arguments. The idea for object profiling is taken from [kratko js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
  
- In the demos [autoDocs-NoName.html](http://dl.dropbox.com/u/2111778/AutoObjectDocumentation/demos/autoDocs-NoName.html) is added that can take any external JS library dynamically and also any JavaScript Object can be added. 
+ In the demos [autoDocs-NoName.html](demos/autoDocs-NoName.html) is added that can take any external JS library dynamically and also any JavaScript Object can be added. 
